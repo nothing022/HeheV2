@@ -36,7 +36,7 @@ UPSTREAM_REPO = getenv(
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
-    "GIT_TOKEN", "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"
+    "GIT_TOKEN", "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"
 )  # Fill this variable if your upstream repository is private
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/AloneXBots")
